@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/status-learning--project-red?style=for-the-badge" alt="Status">
   </a>
   <a href="https://github.com/EmanWeBdV/EPICODE_M3-W4D4/issues">
-    <img src="https://img.shields.io/github/issues/<your-username>/<your-repo-name>?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/issues/EmanWeBdV/EPICODE_M3-W4D4?style=for-the-badge" alt="Issues">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/license-educational-lightgrey?style=for-the-badge" alt="License">
